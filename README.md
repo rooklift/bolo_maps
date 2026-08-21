@@ -1,6 +1,6 @@
 Some Bolo maps. Some are my own, most are by others, in which case I have often:
 
-* reordered base and pill IDs to better match in-game status board
+* reordered base and pill IDs to better match the in-game status board
 * made various fixes for obvious symmetry issues and other aesthetic issues
 * set all pillbox speeds to 100
 
