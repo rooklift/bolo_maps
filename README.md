@@ -2,6 +2,9 @@ Some Bolo maps. Some are my own, most are by others, in which case I have often:
 
 * reordered base and pill IDs to better match the in-game status board
 * made various fixes for obvious symmetry issues and other aesthetic issues
+* added spawns (right next to the existing ones)
 * set all pillbox speeds to 100
 
 About that final choice, speed 100 better matches the state they were in at the true start of a Mac Bolo game, since there were no lobbies so you had to wait around while people joined and made alliances, during which time the speed would naturally decay to 100.
+
+Where edits are big enough that I'd consider them gameplay-relevant, I've renamed the map.
