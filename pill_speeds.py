@@ -39,12 +39,7 @@ def main():
 			continue
 		odd = [p for p in pills if p["speed"] != 100]
 		if odd:
-			found += 1
-			speeds = sorted(set(p["speed"] for p in odd))
-			print(f"{name}: {len(odd)}/{len(pills)} pills with speed != 100 (speeds: {', '.join(map(str, speeds))})")
-			for p in odd:
-				print(f"\t({p['x']}, {p['y']}) speed {p['speed']}")
-	print(f"\n{found} map(s) with non-100 pill speeds.")
+			print(name)
 
 
 if __name__ == "__main__":
