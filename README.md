@@ -10,7 +10,7 @@
 * Sodium Highway
 * Tertiary Adjunct
 
-# Remakes / significant mods
+# Remakes / major fixes
 
 * Clockwork B - based on *Clockwork*
 * Ferengi 2.1 - based on *Feringi Two*
