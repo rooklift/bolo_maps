@@ -1,10 +1,93 @@
-Some Bolo maps. Some are my own, most are by others, in which case I have often:
+Original maps:
 
-* reordered base and pill IDs to better match the in-game status board
-* made various fixes for obvious symmetry issues and other aesthetic issues
-* added spawns (right next to the existing ones)
-* set all pillbox speeds to 100
+* Directionally Correct
+* Foo Toy 2
+* Frank Exchange of Views
+* Grugfest 1314
+* Mind Over Matter 2
+* Smol War
+* Sodium Highway
+* Tertiary Adjunct
 
-About that final choice, speed 100 better matches the state they were in at the true start of a Mac Bolo game, since there were no lobbies so you had to wait around while people joined and made alliances, during which time the speed would naturally decay to 100.
+Remakes / significant mods:
 
-Where edits are big enough that I'd consider them gameplay-relevant, I've renamed the map.
+* Clockwork B - based on the original Clockwork
+* Duckfest MMXXVI - based on Chuckfest VII
+* Ferengi 2.1 - based on Feringi Two
+* Limax 27 - based on Slugfest XXVII
+* Overcooked Scotch Pie - based on Scotch Pie
+* Skathe B - based on Skathe
+* Slugfest XXXVII Tune - based on Slugfest XXXVII
+* Yalevic Tune - based on Yalevic
+
+Other people's maps, significant fixes:
+
+* 4 Cheese Omelet - bad spawn removed; better aesthetics
+* Dogs Playing Poker - bad spawn removed
+* Dysfunctional - many trees restored
+* Evolution - bad spawns removed
+* Gothic Toy - bad spawns removed
+* Kiwi-Lime - four bases added
+
+Other people's maps, minor symmetry fixes:
+
+* Addy Land
+* Baringi
+* Captain Blood
+* Chewed Fill Toy
+* Daputa
+* Fitzhu
+* JonnyWar I
+* Mosh Pit XXV
+* Slugfest IV
+* Tree Soda V
+* Viper's Pill War
+* Xenophobia
+
+Other people's maps, minor aesthetic fixes:
+
+* Bolo Rumble
+* Flying Chew Toy
+* Mushroom Kingdom
+
+Other people's maps, more spawns added:
+
+* Chew Toy One
+* Crankcase
+* Gemstone
+* Gothic Industrial
+* Gothic Industrial 2
+* Lecaro
+* O's Catchy
+* O's Witchy
+* Orgic III - Tubic
+* Petroleum Plant
+* Skew Toy 2
+
+Other people's maps, trivial fixes only:
+
+* Beastly Chew Toy Variant
+* BuzzSaw
+* Chew Toy 3.2
+* Chew Toy 3
+* Chew Toy 96
+* Chewfest IV
+* Cognitive Dissonance
+* Cubosh
+* D's Noobwar I
+* DH-Oil Rig
+* Dream Soda IV v2
+* Dream Soda V
+* Dune 1
+* Etaka
+* Fly Swatter IV
+* Hathec
+* Hellish Dream 2
+* K16
+* Kielbasa
+* Pillbox Island
+* Repetitive Stress Injury
+* Uptight II
+* Waltzing Matilda
+* Wrim Wram Wrom
+* Zet's 1x1
