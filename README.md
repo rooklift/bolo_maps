@@ -1,6 +1,7 @@
 # Original maps
 
 * Directionally Correct
+* Duckfest MMXXVI
 * Foo Toy 2
 * Frank Exchange of Views
 * Grugfest 1314
@@ -12,7 +13,6 @@
 # Remakes / significant mods
 
 * Clockwork B - based on *Clockwork*
-* Duckfest MMXXVI - based on *Chuckfest VII*
 * Ferengi 2.1 - based on *Feringi Two*
 * Kiwi-Lime Rebase - based on *Kiwi-Lime*
 * Limax 27 - based on *Slugfest XXVII*
