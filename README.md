@@ -9,7 +9,7 @@
 * Sodium Highway
 * Tertiary Adjunct
 
-# Remakes / significant mods
+# Remakes / major fixes
 
 * Clockwork B - based on *Clockwork*
 * Duckfest MMXXVI - based on *Chuckfest VII*
