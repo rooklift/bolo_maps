@@ -33,7 +33,6 @@
 # Other people's maps, more spawns added
 
 * Chew Toy One
-* Crankcase
 * Flying Chew Toy
 * Gemstone
 * Gothic Industrial
@@ -70,6 +69,7 @@
 * Chew Toy 3
 * Chew Toy 96
 * Chewfest IV
+* Crankcase
 * Cubosh
 * DH-Oil Rig
 * Dream Soda IV v2
