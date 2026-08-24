@@ -28,6 +28,7 @@
 * Evolution - bad spawns removed
 * Gothic Toy - bad spawns removed
 * Kiwi-Lime - four bases added
+* Viper's Pill War - fixed one side being longer
 
 # Other people's maps, more spawns added
 
@@ -51,30 +52,25 @@
 * Captain Blood
 * Chewed Fill Toy
 * Cognitive Dissonance
+* D's Noobwar I
 * Daputa
 * Fitzhu
 * JonnyWar I
 * Mosh Pit XXV
 * Slugfest IV
 * Tree Soda V
-* Viper's Pill War
 * Xenophobia
-
-# Other people's maps, minor aesthetic fixes
-
-* Bolo Rumble
-* Mushroom Kingdom
 
 # Other people's maps, trivial fixes only
 
 * Beastly Chew Toy Variant
+* Bolo Rumble
 * BuzzSaw
 * Chew Toy 3.2
 * Chew Toy 3
 * Chew Toy 96
 * Chewfest IV
 * Cubosh
-* D's Noobwar I
 * DH-Oil Rig
 * Dream Soda IV v2
 * Dream Soda V
@@ -85,6 +81,7 @@
 * Hellish Dream 2
 * K16
 * Kielbasa
+* Mushroom Kingdom
 * Pillbox Island
 * Repetitive Stress Injury
 * Uptight II
