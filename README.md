@@ -1,4 +1,4 @@
-Original maps:
+# Original maps
 
 * Directionally Correct
 * Foo Toy 2
@@ -9,7 +9,7 @@ Original maps:
 * Sodium Highway
 * Tertiary Adjunct
 
-Remakes / significant mods:
+# Remakes / significant mods
 
 * Clockwork B - based on the original Clockwork
 * Duckfest MMXXVI - based on Chuckfest VII
@@ -20,7 +20,7 @@ Remakes / significant mods:
 * Slugfest XXXVII Tune - based on Slugfest XXXVII
 * Yalevic Tune - based on Yalevic
 
-Other people's maps, significant fixes:
+# Other people's maps, significant fixes
 
 * 4 Cheese Omelet - bad spawn removed; better aesthetics
 * Dogs Playing Poker - bad spawn removed
@@ -29,12 +29,13 @@ Other people's maps, significant fixes:
 * Gothic Toy - bad spawns removed
 * Kiwi-Lime - four bases added
 
-Other people's maps, minor symmetry fixes:
+# Other people's maps, minor symmetry fixes
 
 * Addy Land
 * Baringi
 * Captain Blood
 * Chewed Fill Toy
+* Cognitive Dissonance
 * Daputa
 * Fitzhu
 * JonnyWar I
@@ -44,16 +45,16 @@ Other people's maps, minor symmetry fixes:
 * Viper's Pill War
 * Xenophobia
 
-Other people's maps, minor aesthetic fixes:
+# Other people's maps, minor aesthetic fixes
 
 * Bolo Rumble
-* Flying Chew Toy
 * Mushroom Kingdom
 
-Other people's maps, more spawns added:
+# Other people's maps, more spawns added
 
 * Chew Toy One
 * Crankcase
+* Flying Chew Toy
 * Gemstone
 * Gothic Industrial
 * Gothic Industrial 2
@@ -64,7 +65,7 @@ Other people's maps, more spawns added:
 * Petroleum Plant
 * Skew Toy 2
 
-Other people's maps, trivial fixes only:
+# Other people's maps, trivial fixes only
 
 * Beastly Chew Toy Variant
 * BuzzSaw
@@ -72,7 +73,6 @@ Other people's maps, trivial fixes only:
 * Chew Toy 3
 * Chew Toy 96
 * Chewfest IV
-* Cognitive Dissonance
 * Cubosh
 * D's Noobwar I
 * DH-Oil Rig
@@ -91,3 +91,7 @@ Other people's maps, trivial fixes only:
 * Waltzing Matilda
 * Wrim Wram Wrom
 * Zet's 1x1
+
+# Notes
+
+Bases and pillboxes have generally been rearranged to better match the layout of the in-game status board. Pillbox speeds have been normalized to 100 (which is what they would be at the true start of a Mac game, since it takes time to setup alliances, during which time speeds would decay to 100).
