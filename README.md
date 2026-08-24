@@ -29,6 +29,21 @@
 * Gothic Toy - bad spawns removed
 * Kiwi-Lime - four bases added
 
+# Other people's maps, more spawns added
+
+* Chew Toy One
+* Crankcase
+* Flying Chew Toy
+* Gemstone
+* Gothic Industrial
+* Gothic Industrial 2
+* Lecaro
+* O's Catchy
+* O's Witchy
+* Orgic III - Tubic
+* Petroleum Plant
+* Skew Toy 2
+
 # Other people's maps, minor symmetry fixes
 
 * Addy Land
@@ -49,21 +64,6 @@
 
 * Bolo Rumble
 * Mushroom Kingdom
-
-# Other people's maps, more spawns added
-
-* Chew Toy One
-* Crankcase
-* Flying Chew Toy
-* Gemstone
-* Gothic Industrial
-* Gothic Industrial 2
-* Lecaro
-* O's Catchy
-* O's Witchy
-* Orgic III - Tubic
-* Petroleum Plant
-* Skew Toy 2
 
 # Other people's maps, trivial fixes only
 
