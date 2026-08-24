@@ -11,14 +11,15 @@
 
 # Remakes / significant mods
 
-* Clockwork B - based on the original Clockwork
-* Duckfest MMXXVI - based on Chuckfest VII
-* Ferengi 2.1 - based on Feringi Two
-* Limax 27 - based on Slugfest XXVII
-* Overcooked Scotch Pie - based on Scotch Pie
-* Skathe B - based on Skathe
-* Slugfest XXXVII Tune - based on Slugfest XXXVII
-* Yalevic Tune - based on Yalevic
+* Clockwork B - based on *Clockwork*
+* Duckfest MMXXVI - based on *Chuckfest VII*
+* Ferengi 2.1 - based on *Feringi Two*
+* Kiwi-Lime Rebase - based on *Kiwi-Lime*
+* Limax 27 - based on *Slugfest XXVII*
+* Overcooked Scotch Pie - based on *Scotch Pie*
+* Skathe B - based on *Skathe*
+* Slugfest XXXVII Tune - based on *Slugfest XXXVII*
+* Yalevic Tune - based on *Yalevic*
 
 # Other people's maps, significant fixes
 
@@ -27,7 +28,6 @@
 * Dysfunctional - many trees restored
 * Evolution - bad spawns removed
 * Gothic Toy - bad spawns removed
-* Kiwi-Lime - four bases added
 * Viper's Pill War - fixed one side being longer
 
 # Other people's maps, more spawns added
