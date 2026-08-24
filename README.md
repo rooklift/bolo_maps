@@ -45,10 +45,9 @@
 * Petroleum Plant
 * Skew Toy 2
 
-# Other people's maps, minor symmetry fixes
+# Other people's maps, noticeable symmetry fixes
 
 * Addy Land
-* Baringi
 * Captain Blood
 * Chewed Fill Toy
 * Cognitive Dissonance
@@ -63,6 +62,7 @@
 
 # Other people's maps, trivial fixes only
 
+* Baringi
 * Beastly Chew Toy Variant
 * Bolo Rumble
 * BuzzSaw
