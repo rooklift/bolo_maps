@@ -26,6 +26,7 @@
 
 * 4 Cheese Omelet - bad spawn removed; better aesthetics
 * Crankcall - bad spawns removed
+* Dogs Playing Old Maid - bad spawn removed
 * Dogs Playing Poker - bad spawn removed
 * Dysfunctional - many trees restored
 * Easter Island III - restored to a pristine state; also add spawns
