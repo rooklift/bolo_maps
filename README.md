@@ -25,6 +25,7 @@
 # Other people's maps, significant fixes
 
 * 4 Cheese Omelet - bad spawn removed; better aesthetics
+* Crankcall - bad spawns removed
 * Dogs Playing Poker - bad spawn removed
 * Dysfunctional - many trees restored
 * Easter Island III - restored to a pristine state; also add spawns
