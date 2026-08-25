@@ -79,9 +79,11 @@
 * Etaka
 * Fly Swatter IV
 * Hathec
+* Hellish Dream
 * Hellish Dream 2
 * K16
 * Kielbasa
+* Marange
 * Mushroom Kingdom
 * Pillbox Island
 * Repetitive Stress Injury
