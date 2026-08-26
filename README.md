@@ -86,6 +86,7 @@
 * Hellish Dream 2
 * K16
 * Kielbasa
+* Map.7
 * Marange
 * Mushroom Kingdom
 * Pillbox Island
