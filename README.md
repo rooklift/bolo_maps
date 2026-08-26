@@ -14,6 +14,7 @@
 # Remakes / major fixes
 
 * Clockwork B - based on *Clockwork*
+* Dogs Playing Dota - based on *Dogs Playing Poker*
 * Ferengi 2.1 - based on *Feringi Two*
 * Kiwi-Lime Rebase - based on *Kiwi-Lime*
 * Limax 27 - based on *Slugfest XXVII*
