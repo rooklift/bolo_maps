@@ -25,31 +25,12 @@
 
 # Other people's maps, significant fixes
 
-* 4 Cheese Omelet - bad spawn removed; better aesthetics
-* Crankcall - bad spawns removed
-* Dogs Playing Old Maid - bad spawn removed
-* Dogs Playing Poker - bad spawn removed
+* 4 Cheese Omelet - better aesthetics; bad spawn removed
 * Dysfunctional - many trees restored
 * Easter Island III - restored to a pristine state; also add spawns
-* Evolution - bad spawns removed
-* Gothic Toy - bad spawns removed
 * Viper's Pill War - fixed one side being longer
 
-# Other people's maps, more spawns added
-
-* Chew Toy One
-* Flying Chew Toy
-* Gemstone
-* Gothic Industrial
-* Gothic Industrial 2
-* Lecaro
-* O's Catchy
-* O's Witchy
-* Orgic III - Tubic
-* Petroleum Plant
-* Skew Toy 2
-
-# Other people's maps, noticeable symmetry fixes
+# Other people's maps, small-ish symmetry fixes
 
 * Addy Land
 * Captain Blood
@@ -63,6 +44,26 @@
 * Slugfest IV
 * Tree Soda V
 * Xenophobia
+
+# Other people's maps, spawn adjustments
+
+* Birdnest
+* Chew Toy One
+* Crankcall
+* Dogs Playing Old Maid
+* Dogs Playing Poker
+* Evolution
+* Flying Chew Toy
+* Gemstone
+* Gothic Toy
+* Gothic Industrial
+* Gothic Industrial 2
+* Lecaro
+* O's Catchy
+* O's Witchy
+* Orgic III - Tubic
+* Petroleum Plant
+* Skew Toy 2
 
 # Other people's maps, trivial fixes only
 
