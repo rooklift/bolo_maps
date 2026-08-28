@@ -41,6 +41,7 @@
 * Fitzhu
 * JonnyWar I
 * Mosh Pit XXV
+* Schism Toy III
 * Slugfest IV
 * Tree Soda V
 * Xenophobia
