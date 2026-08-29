@@ -93,6 +93,7 @@
 * Marange
 * Mushroom Kingdom
 * Pillbox Island
+* Redeeming Features
 * Repetitive Stress Injury
 * Terminal Velocity
 * Uptight II
