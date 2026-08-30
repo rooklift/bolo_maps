@@ -75,6 +75,7 @@
 * Chew Toy 3.2
 * Chew Toy 3
 * Chew Toy 96
+* Chew Toy 98
 * Chewfest IV
 * Crankcase
 * Cubosh
