@@ -82,6 +82,7 @@
 * DH-Oil Rig
 * Dream Soda IV v2
 * Dream Soda V
+* Dream Soda VI
 * Dune 1
 * Etaka
 * Fly Swatter IV
