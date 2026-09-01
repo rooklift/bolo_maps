@@ -28,6 +28,7 @@
 * 4 Cheese Omelet - better aesthetics; bad spawn removed
 * Dysfunctional - many trees restored
 * Easter Island III - restored to a pristine state; also add spawns
+* Palliative Dirges - restored to a pristine state
 * Viper's Pill War - fixed one side being longer
 
 # Other people's maps, small-ish symmetry fixes
