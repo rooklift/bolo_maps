@@ -36,6 +36,7 @@
 * Addy Land
 * Baringi
 * Beastly Chew Toy Variant
+* Better Best Map Ever
 * Birdnest
 * Bolo Rumble
 * BuzzSaw
