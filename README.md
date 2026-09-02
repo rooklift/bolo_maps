@@ -31,78 +31,73 @@
 * Palliative Dirges - restored to a pristine state
 * Viper's Pill War - fixed one side being longer
 
-# Other people's maps, small-ish symmetry fixes
+# Other people's maps, minor or trivial fixes
 
 * Addy Land
-* Captain Blood
-* Chewed Fill Toy
-* Cognitive Dissonance
-* D's Noobwar I
-* Daputa
-* Fitzhu
-* JonnyWar I
-* Mosh Pit XXV
-* Schism Toy III
-* Slugfest IV
-* Tree Soda V
-* Xenophobia
-
-# Other people's maps, spawn adjustments
-
-* Birdnest
-* Chew Toy One
-* Crankcall
-* Dogs Playing Old Maid
-* Dogs Playing Poker
-* Evolution
-* Flying Chew Toy
-* Gemstone
-* Gothic Toy
-* Gothic Industrial
-* Gothic Industrial 2
-* Lecaro
-* O's Catchy
-* O's Witchy
-* Orgic III - Tubic
-* Petroleum Plant
-* Skew Toy 2
-
-# Other people's maps, trivial fixes only
-
 * Baringi
 * Beastly Chew Toy Variant
+* Birdnest
 * Bolo Rumble
 * BuzzSaw
-* Chew Toy 3.2
+* Captain Blood
 * Chew Toy 3
+* Chew Toy 3.2
 * Chew Toy 96
 * Chew Toy 98
+* Chew Toy One
+* Chewed Fill Toy
 * Chewfest IV
+* Cognitive Dissonance
+* Crankcall
 * Crankcase
 * Cubosh
+* D's Noobwar I
+* Daputa
 * DH-Oil Rig
+* Dogs Playing Old Maid
+* Dogs Playing Poker
 * Dream Soda IV v2
 * Dream Soda V
 * Dream Soda VI
 * Dune 1
 * Etaka
+* Evolution
+* Fitzhu
+* Fly Swatter II
 * Fly Swatter IV
+* Flying Chew Toy
+* Gemstone
+* Gothic Industrial
+* Gothic Industrial 2
+* Gothic Toy
 * Hathec
 * Hellish Dream
 * Hellish Dream 2
+* JonnyWar I
 * K16
 * Kielbasa
+* Lecaro
 * Map.7
 * Marange
+* Mosh Pit XXV
 * Mushroom Kingdom
+* O's Catchy
+* O's Witchy
+* Orgic III - Tubic
+* Petroleum Plant
 * Pillbox Island
 * Redeeming Features
 * Repetitive Stress Injury
+* Schism Toy III
+* Skew Toy 2
+* Slugfest IV
 * Terminal Velocity
+* Tree Soda V
 * Uptight II
 * Waltzing Matilda
 * Wrim Wram Wrom
 * Xenon Dream
+* Xenophobia
 * Zet's 1x1
 
 # Notes
