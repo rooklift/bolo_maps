@@ -97,6 +97,7 @@
 * Waltzing Matilda
 * Wrim Wram Wrom
 * Xenon Dream
+* Xenon Lamp
 * Xenophobia
 * Zet's 1x1
 
