@@ -62,6 +62,7 @@
 * Dream Soda IV v2
 * Dream Soda V
 * Dream Soda VI
+* Dream Soda IX
 * Dune 1
 * Etaka
 * Evolution
