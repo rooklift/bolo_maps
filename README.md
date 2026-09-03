@@ -58,6 +58,7 @@
 * DH-Oil Rig
 * Dogs Playing Old Maid
 * Dogs Playing Poker
+* Dream Soda IV
 * Dream Soda IV v2
 * Dream Soda V
 * Dream Soda VI
