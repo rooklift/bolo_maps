@@ -82,6 +82,7 @@
 * Marange
 * Mosh Pit XXV
 * Mushroom Kingdom
+* No Name No Slogan
 * O's Catchy
 * O's Witchy
 * Orgic III - Tubic
