@@ -1,5 +1,6 @@
 # Original maps
 
+* Cronkfaze
 * Directionally Correct
 * Duckfest MMXXVI
 * Foo Toy 2
