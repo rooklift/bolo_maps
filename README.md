@@ -31,6 +31,7 @@
 * Dysfunctional - many trees restored
 * Easter Island III - restored to a pristine state; also add spawns
 * Palliative Dirges - restored to a pristine state
+* Palp's 1x1x1 - somewhat fairer; other edits
 * Viper's Pill War - fixed one side being longer
 
 # Other people's maps, minor or trivial fixes
