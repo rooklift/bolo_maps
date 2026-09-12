@@ -59,7 +59,8 @@
 * Cubosh
 * D's Noobwar I
 * Daputa
-* DH-Oil Rig
+* DH Oil Rig
+* DH Oil Rig + Trees
 * Dogs Playing Old Maid
 * Dogs Playing Poker
 * Dream Soda IV
