@@ -24,6 +24,7 @@
 * Overcooked Scotch Pie - based on *Scotch Pie*
 * Skathe B - based on *Skathe*
 * Slugfest XXXVII Tune - based on *Slugfest XXXVII*
+* Xenon Daze - based on *Xenon Dream*
 * Yalevic Tune - based on *Yalevic*
 
 # Other people's maps, significant fixes
