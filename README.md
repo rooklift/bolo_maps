@@ -42,6 +42,7 @@
 * Beastly Chew Toy Variant
 * Better Best Map Ever
 * Birdnest
+* Bolo Requiem
 * Bolo Requiem 2
 * Bolo Rumble
 * BuzzSaw
