@@ -30,6 +30,7 @@
 # Other people's maps, significant fixes
 
 * 4 Cheese Omelet - better aesthetics; bad spawn removed
+* A Rock And A Hard Place - created east and west spawns
 * Dysfunctional - many trees restored
 * Easter Island III - restored to a pristine state; also add spawns
 * Palliative Dirges - restored to a pristine state
