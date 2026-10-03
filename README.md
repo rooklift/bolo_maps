@@ -96,6 +96,7 @@
 * Lecaro
 * Map.7
 * Marange
+* Mendal
 * Mosh Pit XXV
 * Mushroom Kingdom
 * No Name No Slogan
