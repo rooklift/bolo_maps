@@ -55,6 +55,7 @@
 * Chew Toy 3.2
 * Chew Toy 96
 * Chew Toy 98
+* Chew Toy 2000
 * Chew Toy One
 * Chewed Fill Toy
 * Chewfest IV
