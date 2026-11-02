@@ -27,6 +27,7 @@
 * Overcooked Scotch Pie - based on *Scotch Pie*
 * Skathe B - based on *Skathe*
 * Slugfest XXXVII Tune - based on *Slugfest XXXVII*
+* Solomon's Temple 2 - based on *Solomon's Temple*
 * Xenon Daze - based on *Xenon Dream*
 * Yalevic Tune - based on *Yalevic*
 
