@@ -18,6 +18,7 @@
 
 # Remakes / major fixes
 
+* Chew Toy 6.1 - based on *Chew Toy 6*
 * Clockwork B - based on *Clockwork*
 * Dogs Playing Dota - based on *Dogs Playing Poker*
 * Dream Soda IV v3 - based on *Dream Soda IV*
