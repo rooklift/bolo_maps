@@ -4,7 +4,6 @@
 * Cronkfaze
 * Directionally Correct
 * Duckfest MMXXVI
-* Foo Toy 2
 * Frank Exchange of Views
 * Grugfest 1314
 * Hypothesis
