@@ -110,6 +110,7 @@
 * No Name No Slogan
 * O's Catchy
 * O's Witchy
+* Oil Rigette
 * Orgic III - Tubic
 * Petroleum Plant
 * Pillbox Island
