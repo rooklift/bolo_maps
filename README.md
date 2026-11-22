@@ -9,6 +9,7 @@
 * Hypothesis
 * Midwit Safety
 * Mind Over Matter 2
+* No Sorry
 * Phase One Big
 * Smol War
 * Sodium Highway
@@ -91,6 +92,7 @@
 * Hathec
 * Hellish Dream
 * Hellish Dream 2
+* Ibiza
 * Indolent Impetus Two
 * Jelp Toy IV
 * JonnyWar I
