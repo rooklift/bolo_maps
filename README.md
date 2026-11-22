@@ -7,6 +7,8 @@
 * Frank Exchange of Views
 * Grugfest 1314
 * Hypothesis
+* It Is What It Is
+* Meme Soda
 * Midwit Safety
 * Mind Over Matter 2
 * No Sorry
@@ -14,7 +16,7 @@
 * Smol War
 * Sodium Highway
 * Tertiary Adjunct
-* The Unit of Caring
+* The Unit of Caring 2
 
 # Remakes / major fixes
 
