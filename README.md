@@ -28,6 +28,7 @@
 * Ferengi 2.1 - based on *Feringi Two*
 * Kiwi-Lime Rebase - based on *Kiwi-Lime*
 * Limax 27 - based on *Slugfest XXVII*
+* Omega Alpha - based on *Omega*
 * Overcooked Scotch Pie - based on *Scotch Pie*
 * Oyster Island 8.1 - based on *Oyster Island VIII*
 * Skathe B - based on *Skathe*
