@@ -29,6 +29,7 @@
 * Kiwi-Lime Rebase - based on *Kiwi-Lime*
 * Limax 27 - based on *Slugfest XXVII*
 * Overcooked Scotch Pie - based on *Scotch Pie*
+* Oyster Island 8.1 - based on *Oyster Island VIII*
 * Skathe B - based on *Skathe*
 * Slugfest XXXVII Tune - based on *Slugfest XXXVII*
 * Solomon's Temple 2 - based on *Solomon's Temple*
@@ -48,6 +49,7 @@
 # Other people's maps, minor or trivial fixes
 
 * Addy Land
+* Aringa IV
 * Baringi
 * B.C.
 * Beastly Chew Toy Variant
@@ -81,6 +83,7 @@
 * Dream Soda V
 * Dream Soda VI
 * Dream Soda IX
+* Dream Soda X
 * Dune 1
 * Etaka
 * Evolution
